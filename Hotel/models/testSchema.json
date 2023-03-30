@@ -6,7 +6,9 @@
     "roomCount": ["Suit"],
     "noPeople": 2,
     "arriveDate": "2023-03-28T18:32:02.035Z",
+    "arriveTime": "2023-03-28T18:32:02.035Z",
     "departDate": "2023-03-28T18:32:02.035Z",
     "departTime": "2023-03-28T18:32:02.035Z"
   }
+  
 }
